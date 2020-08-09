@@ -6,7 +6,8 @@ This repo is for the online course called [Spring Framework 5: Beginner to Guru]
 
 Contained in this repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
 
-* Add git remote to the project
+* Add git remote of the original course project
 ```
 git remote add sfgRepo git@github.com:springframeworkguru/sfg-pet-clinic.git
+git fetch sfgRepo
 ```
