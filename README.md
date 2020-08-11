@@ -11,3 +11,9 @@ Contained in this repo is an opinionated version of the classic reference applic
 git remote add sfgRepo git@github.com:springframeworkguru/sfg-pet-clinic.git
 git fetch sfgRepo
 ```
+
+### S03-L49 Spring Pet Clinic - Using Maven Release Plugin
+
+``` 
+mvn release:prepare
+```
