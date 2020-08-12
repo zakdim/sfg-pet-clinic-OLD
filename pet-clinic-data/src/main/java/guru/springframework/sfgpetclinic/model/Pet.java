@@ -5,7 +5,7 @@ import java.time.LocalDate;
 /**
  * Created by dmitri on 2020-08-09.
  */
-public class Pet {
+public class Pet extends BaseEntity {
 
     private PetType petType;
     private Owner owner;
